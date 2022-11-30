@@ -1,6 +1,8 @@
 import java.lang.*;
 import java.util.*;
+
 //Write a program to print all Natural numbers from 1 to N where you have to take N as input from user
+
 public class FromTtoptoDown {
     public static void main(String[] args) {
         // YOUR CODE GOES HERE
